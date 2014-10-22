@@ -1,7 +1,6 @@
 ## This source file of functions takes a square matrix and will provide the inverse of the square matrix
 ##  because the inverse of a square matirx is a compute intensive operation, a cache of the inverse is stored.
 ##  If the inverse has already been computed, then the cached inverse is returned instead of re-computing the inverse.
-## functions do
 
 ##This function takes in a matrix and returns a list of functions available, the are:
 ##  set - creates the matrix, and sets im (inverse matrix) to NULL
